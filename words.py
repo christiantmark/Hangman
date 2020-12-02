@@ -1,0 +1,8 @@
+'black'
+'yellow'
+'blue'
+'red'
+'green'
+'pink'
+'orange'
+'purple'
